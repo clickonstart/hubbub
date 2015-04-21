@@ -48,7 +48,7 @@ body {
 }
 
 #grailsLogo {
-	background-color: #abbf78;
+	background-color: #E6E6F0;
 }
 
 /* replace with .no-boxshadow body if you have modernizr available */
@@ -92,6 +92,7 @@ img {
 #grailsLogo a {
 	display: inline-block;
 	margin: 1em;
+	width:100%;
 }
 
 .content {
@@ -108,7 +109,7 @@ img {
 }
 
 .footer {
-	background: #abbf78;
+	background: #E6E6F0;
 	color: #000;
 	clear: both;
 	font-size: 0.8em;
